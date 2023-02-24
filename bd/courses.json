@@ -1,0 +1,32 @@
+[
+  {
+    "title": "sec newest course",
+    "description": "sec newest course",
+    "duration": 155,
+    "authors": [
+      "0b94cebd-9e3f-43e6-ad1c-95c319690b71"
+    ],
+    "creationDate": "25/01/2023",
+    "id": "36d539eb-bc37-4f08-801d-f8c08e37c990"
+  },
+  {
+    "title": "ho ho ho 88 ",
+    "description": "ho ho ho descr",
+    "duration": 8,
+    "authors": [
+      "0598bf75-35d5-4dbc-806f-e600eeb979ea"
+    ],
+    "creationDate": "25/01/2023",
+    "id": "c35b9a20-9d77-4689-8579-02c771a489d5"
+  },
+  {
+    "title": "222222 222 2 33",
+    "description": "asssssssssssssssssssss",
+    "duration": 9,
+    "authors": [
+      "54fb9767-4233-4f1a-b549-4f9a1105d4f0"
+    ],
+    "creationDate": "25/01/2023",
+    "id": "2cd1c9c9-3c17-4b94-ac51-56c49ad2d5ca"
+  }
+]
